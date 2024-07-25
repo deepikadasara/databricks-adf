@@ -1,0 +1,9 @@
+{
+	"name": "deepika-df",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2e9ce0e8-cd29-4258-91ae-c5f29008d491",
+		"tenantId": "ce0db214-cf5e-4aa5-9781-bd8d3fa6c4c3"
+	}
+}
